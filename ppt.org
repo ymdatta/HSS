@@ -44,7 +44,7 @@
 * Trouble vs Issues
   Mills says that the most fruitful distinction with which the sociological
   imagination works is between /*the personal troubles of milieu*/ and 
-  /* the public issues of social structure */.
+  /*the public issues of social structure*/.
 
 ** Troubles:
    A Trouble is a private matter: values cherished by an individual are
@@ -109,3 +109,10 @@
    Ex: How we felt when Trump decided to build a 'border wall' between
    Mexico and U.S.A.
   
+* References:
+  - https://www.theglobeandmail.com/news/world/syrian-class-divisions-growing-during-civil-war-helping-assad-regime/article25061620/
+  - https://www.theatlantic.com/international/archive/2013/12/understanding-syria-from-pre-civil-war-to-post-assad/281989/
+  - https://www.bbc.com/news/world-middle-east-35806229
+  - https://www.aljazeera.com/news/2016/05/syria-civil-war-explained-160505084119966.html
+
+  *_Thank You!_*
