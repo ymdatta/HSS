@@ -1,4 +1,5 @@
 #+TITLE: Sociological Imagination
+#+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
 * The 'Promise'
   - C. Wright Mills says that the The sociological imagination enables us
     to grasp history and biography and the relations between the two 
