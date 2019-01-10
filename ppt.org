@@ -9,6 +9,38 @@
 
   - Sociological Imagination can also be defined as "the vivid awareness
     of the relationship between personal experience and wider society".
+* Asking the 'right' questions
+  Mills says that these are the types of questions that should be raised
+  by any mind possessing social imagination. These fall into three
+  categories.
+
+  Asking right questions help us to shift from one perspective to another
+  perspective - from political to psychological, from examination of single
+  family to comparitive assesments of national budgets of world etc.
+
+  It is the capacity to range from the most impersonal and remote
+  transformations to the most intimate features of human self - and
+  to see the relations between the two.
+** Structural characteristics
+   - What are its essential components, and how are they related to one another?
+   - How does it differ from other varieties of social order?
+   - Within it, what is the meaning of any particular feature 
+     for its continuance and for its change?
+** History of the space
+   -  What are the mechanics by which it is changing?
+   -  How does any particular feature we are examining affect, 
+      and how is it affected by, the historical period in which it moves?
+   -  How does it differ from other periods?
+   -  And this period...what are its essential features?
+** people inhabiting the space
+   - And what varieties are coming to prevail?
+   - In what ways are they selected and formed, 
+     liberated and repressed, made sensitive and blunted?
+   - What kinds of "human nature" are revealed in the conduct 
+     and character we observe in this society in this period?
+   - And what is the meaning for "human nature" of each and 
+     every feature of the society we are examining?
+
 * Trouble vs Issues
   Mills says that the most fruitful distinction with which the sociological
   imagination works is between /*the personal troubles of milieu*/ and 
