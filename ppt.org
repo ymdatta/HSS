@@ -1,0 +1,76 @@
+#+TITLE: Sociological Imagination
+* The 'Promise'
+  - C. Wright Mills says that the The sociological imagination enables us
+    to grasp history and biography and the relations between the two 
+    within society. That is its task and its promise.
+
+  - Sociological Imagination can also be defined as "the vivid awareness
+    of the relationship between personal experience and wider society".
+* Trouble vs Issues
+  Mills says that the most fruitful distinction with which the sociological
+  imagination works is between /*the personal troubles of milieu*/ and 
+  /* the public issues of social structure */.
+
+** Troubles:
+   A Trouble is a private matter: values cherished by an individual are
+   felt by him to be threatened.
+
+** Issues:
+   An issue is a public matter: values cherished by public is felt to be
+   threatened.
+
+** Obesity in America - Is it an issue or trouble (1):
+   
+   - According to center of disease control, 35% (34.9% to be preicse) of 
+     adults are obese and 69% (68.5% to be precise) are either obese or 
+     overweight.
+
+   - Social structures that contribute to obesity include *_Food Desertes_*,
+     which are areas of U.S where people donot have access to healthy foods
+     like fruits etc and these are also the places where we cannot grow these
+     types of foods. So little access to healthy foods.
+
+   - Governament subsidies: Research shows <1% goes towards the fresh fruits 
+     or vegetables while majority of subsidies are given to *Meat, Diary and
+     grain* production.
+** Obesity in America - Is it an issue or trouble (2):
+
+   - This basically makes vegetables costlier compared to Meat etc. This leads
+     to more people consuming heavy foods, in these areas it now becomes
+     an *_issue_*.
+
+   - In other areas(i am generalising here not taking many factors) it is more
+     of a private trouble.
+  
+* Various 'states' of people
+** *_Well being_* :
+   People experience this when they have some set of 'values' and do not
+   feel any threat to them.
+** *_Crisis_* :
+   People experience this when they cherish values but do feel them to be
+   'threatened', they experience a crisis - either a personal value or
+   public issue.
+
+   Ex: People in the LGBT community feel threatened and experience 'crisis'.
+** *_Indifference_*:
+   People experience this when they are neither aware of any cherished values
+   nor experience any threat.
+
+   If this involves all their values, it becomes *apathy*.
+
+   The question of apathy has come up in India again and again, cases where
+
+   - [[https://www.ndtv.com/chennai-news/after-techies-killing-chennai-grapples-with-questions-on-apathy-1424194][Woman on busy chennai railway platform]] was attacked by a machete-wielding
+     man and lay dead in a pool of blood for two hours while people went about
+     boarding trains.
+
+   - [[https://indianexpress.com/article/opinion/web-edits/boy-bleeds-to-death-in-karnataka-our-indifference-is-appalling-4504660/][A teenager in Karnataka]] bled to death after being hit by a state bus,
+     while passersby huddled around him to take videos and pictures on their
+     mobile phones.
+** *_Uneasiness_*:
+   People experience this when they are unaware of any cherished values but 
+   experience threat.
+
+   Ex: How we felt when Trump decided to build a 'border wall' between
+   Mexico and U.S.A.
+  
