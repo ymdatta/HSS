@@ -1,5 +1,7 @@
+#+REVEAL_THEME: simple
 #+TITLE: Sociological Imagination
 #+REVEAL_ROOT: https://cdn.jsdelivr.net/reveal.js/3.0.0/
+#+AUTHOR: Yelugoti Mohana Datta - IMT2016012
 * The 'Promise'
   - C. Wright Mills says that the The sociological imagination enables us
     to grasp history and biography and the relations between the two 
@@ -42,7 +44,7 @@
 
    - In other areas(i am generalising here not taking many factors) it is more
      of a private trouble.
-  
+     
 * Various 'states' of people
 ** *_Well being_* :
    People experience this when they have some set of 'values' and do not
